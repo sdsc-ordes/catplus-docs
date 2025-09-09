@@ -1,5 +1,10 @@
 # SwissCAT+ CHEMBORD
 
+> [!IMPORTANT]  
+> This repository is **archived** and no longer maintained.  
+> The project has been migrated to our collaborators at [SwissCAT+](https://github.com/swisscatplus).  
+> 👉 Development continues at [swisscatplus/catplus-docs](https://github.com/swisscatplus/catplus-docs)  
+
 ## Context
 
 All the code presented in this documentation comes from the fruitful collaboration between [SwissCAT+](https://swisscatplus.ch) and [Swiss Data Science Center (SDSC)](https://www.datascience.ch).
